@@ -50,8 +50,12 @@ The project contains everything is needed and probably more below:
 
   Firebase is perfect for this kind of sites, in my opinion.
   ## Screenshots
-  ![Github Logo](images/Screenshot 2021-07-11 131618.png)
-
+ ![website image](https://user-images.githubusercontent.com/35638848/125196909-836c2e00-e253-11eb-9242-d59d07bada8e.png)
+ ![website image](https://user-images.githubusercontent.com/35638848/125196712-bcf06980-e252-11eb-8c76-6df022652eac.png)
+ ![website image](https://user-images.githubusercontent.com/35638848/125196714-bd890000-e252-11eb-9d40-2283cda8519b.png)
+ ![website image](https://user-images.githubusercontent.com/35638848/125196715-be219680-e252-11eb-9b3c-8823db4c335e.png)
+ ![website image](https://user-images.githubusercontent.com/35638848/125196717-be219680-e252-11eb-896b-16698a5e1e32.png)
+ ![website image](https://user-images.githubusercontent.com/35638848/125196718-bf52c380-e252-11eb-986d-95c7be52a904.png)
 # _Licensing_
 MIT License Copyright (c) 2021 chisomloius
 
@@ -62,4 +66,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # _Acknowldegment_
-Special thanks to [m-i-n-a-r](hhtps://github.com/m-i-n-a-r) for allowing me clone and build on his work.
+Special thanks to [minar](hhtps://github.com/m-i-n-a-r) for allowing me clone and build on his work.
