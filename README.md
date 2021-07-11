@@ -13,7 +13,7 @@ Sparky Portfolio is an open source responsive website project of a simple yet be
  - [ ] New sections (i accept suggestions!)
  
 # _Description_
-What motivated me to get a one page personal portfolio webiste?
+> What motivated me to get a one page personal portfolio webiste?
 Well the short answer is:
 Having a site where you can be almost everywhere other of your medium(Github, LinkedIn, YouTube, Facebook, Instagram, Telegram, Medium and Whatsapp) is a good way to tell people who you are and what you can do and what you are working on. My personal website is more a curriculum, just like LinkedIn, still personal. 
 Starting out with a small site like mine, means using predefined  libraries and customisable templates and still remain simple. The result of doing so is a good looking site which contains a lot of personal informations in a small amount of space and in a single page. Well, from here you can make yours even simpler and who knows beat me to the game.
@@ -27,8 +27,8 @@ The project contains everything is needed and probably more below:
   - Various images (which are meant to be replaced), including the favicon (the small image in the tab title).
   - Responsive site based on an heavily modified [html5up](https://html5up.net/) template.
   - Customizable and simple layout.
-  - Customizable [Particles.js!](
-  - Animated logo, Fontawesome 5 icons.
+  - Customizable [Particles.js!](https://github.com/chisomloius/my_test_web/blob/master/js/particles.js)
+  - Animated logo, [Fontawesome 5 icons](https://fontawesome.com/).
   - More to come...
   ## Usage
   This is my [personal site](www.chisomloius.ml), you have to replace some assets and configure the layout to your liking, just follow these steps.
@@ -50,13 +50,16 @@ The project contains everything is needed and probably more below:
 
   Firebase is perfect for this kind of sites, in my opinion.
   ## Screenshots
-
+  ![Github Logo](images/Screenshot 2021-07-11 131618.png)
 
 # _Licensing_
-MIT License
-Copyright (c) 2021 chisomloius
+MIT License Copyright (c) 2021 chisomloius
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 # _Acknowldegment_
-Special thanks to @m-i-n-a-r for allowing me clone and build on his work.
+Special thanks to [m-i-n-a-r](hhtps://github.com/m-i-n-a-r) for allowing me clone and build on his work.
