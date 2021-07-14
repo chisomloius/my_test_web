@@ -39,11 +39,11 @@ The project contains everything is needed and probably more below:
   - To change the font and customize buttons, dimensions and so on, open main.css and read the comments inside. If something is unlcear to you, don't modify it!
   -To test the site, just open the index.html in Chrome or in your favorite browser. Use the dev tools to show the mobile version, if you need it.
   ### Using a Free Domain Name
-  In this prject I used the *free github hositng service.* The instruction for usage can be found (here) [https://pages.github.com/].
+ In this prject I used the *free github hositng service.* The instruction for usage can be found [here] (https://pages.github.com/).
   If you like to play around things, then choice from the many free website hosting platforms to get a domain name and connect it to firebase for proper hosting.
   You can follow the instructions to host on firebase:
 
-  - First thing first, (sign up or login)[https://firebase.google.com/].
+  - First thing first, [sign up or login] (https://firebase.google.com/).
   - Click on go to console.
   - Start a new project.
   - Open your new project and click on hosting.
